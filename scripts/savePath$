@@ -1,0 +1,6 @@
++ / + outFile$ id,item,vowel,language,f1_cent,f2_cent,tl,f1_20,f1_35,f1_50,f1_65,f1_80,f2_20,f2_35,f2_50,f2_65,f2_80
++ / + outFile$ id,item,vowel,language,f1_cent,f2_cent,tl,f1_20,f1_35,f1_50,f1_65,f1_80,f2_20,f2_35,f2_50,f2_65,f2_80
++ / + outFile$ id,item,vowel,language,f1_cent,f2_cent,tl,f1_20,f1_35,f1_50,f1_65,f1_80,f2_20,f2_35,f2_50,f2_65,f2_80
++ / + outFile$ id,item,vowel,language,f1_cent,f2_cent,tl,f1_20,f1_35,f1_50,f1_65,f1_80,f2_20,f2_35,f2_50,f2_65,f2_80
++ / + outFile$ id,item,vowel,language,f1_cent,f2_cent,tl,f1_20,f1_35,f1_50,f1_65,f1_80,f2_20,f2_35,f2_50,f2_65,f2_80
++ '/' + outFile$ "id,item,vowel,language,f1_cent,f2_cent,tl,f1_20,f1_35,f1_50,f1_65,f1_80,f2_20,f2_35,f2_50,f2_65,f2_80" + "newline$"
